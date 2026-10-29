@@ -7,8 +7,8 @@ This repository intentionally contains **no source code**. It exists so anyone c
 install a verified build without access to the source repository. Every binary here is produced by
 the release pipeline and published with its checksums.
 
-- Website and downloads: <https://www.fimaw.com/download>
-- Documentation: <https://www.fimaw.com/docs>
+- Website and downloads: <https://fimaw.com/download>
+- Documentation: <https://fimaw.com/docs>
 - Support: <contact@fimaw.com>
 
 ## What a release contains
@@ -83,7 +83,7 @@ Get-FileHash .\fimawcode-desktop-win-x64-<version>.exe -Algorithm SHA512
 ```
 
 Compare the result with the matching line of `SHA512SUMS`, and with the checksum posted on
-<https://www.fimaw.com/download>. If they differ, delete the file and download it again.
+<https://fimaw.com/download>. If they differ, delete the file and download it again.
 
 The desktop build is also what the **Check for updates** action inside the app verifies before it
 installs anything.

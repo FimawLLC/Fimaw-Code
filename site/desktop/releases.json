@@ -1,16 +1,26 @@
 {
-  "latest": "2.4.2",
-  "publishedAt": "2026-10-29T08:07:00Z",
-  "releases": [
-    {
-      "version": "2.4.2",
-      "platform": "windows",
-      "arch": "x64",
-      "file": "fimawcode-desktop-win-x64-2.4.2.exe",
-      "size": 259593406,
-      "sha512": "a48c6a8f4c846d634d8df50b61ed4ffe79786790508c269a65dbc22ed9571ff9e5c83baf05723cecc296daf7c39aaa14e2fd858ca2b85c8647341e6fcbbf24de",
-      "notes": "Sign-in gate, plan-controlled providers, new About page, guided installer.",
-      "publishedAt": "2026-10-29T08:07:00Z"
-    }
-  ]
+    "latest":  "2.4.3",
+    "publishedAt":  "2026-10-29T10:40:47Z",
+    "releases":  [
+                     {
+                         "version":  "2.4.3",
+                         "platform":  "windows",
+                         "arch":  "x64",
+                         "file":  "fimawcode-desktop-win-x64-2.4.3.exe",
+                         "size":  259585811,
+                         "sha512":  "0537246b2599d239187731a97ce7221b6b1b090616ba3ed61ac8da86af66ee3ddaee2821bf495137f564149de337c758678816d31ca56229989dece2dd2d630f",
+                         "notes":  "Sign-in gate opens the real sign-in page; deep links work when the app is closed; deployment switches reach the app.",
+                         "publishedAt":  "2026-10-29T10:40:47Z"
+                     },
+                     {
+                         "version":  "2.4.2",
+                         "platform":  "windows",
+                         "arch":  "x64",
+                         "file":  "fimawcode-desktop-win-x64-2.4.2.exe",
+                         "size":  259593406,
+                         "sha512":  "a48c6a8f4c846d634d8df50b61ed4ffe79786790508c269a65dbc22ed9571ff9e5c83baf05723cecc296daf7c39aaa14e2fd858ca2b85c8647341e6fcbbf24de",
+                         "notes":  "Sign-in gate, plan-controlled providers, new About page, guided installer.",
+                         "publishedAt":  "2026-10-29T08:07:00Z"
+                     }
+                 ]
 }

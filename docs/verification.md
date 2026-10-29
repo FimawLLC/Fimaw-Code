@@ -18,7 +18,7 @@ Get-FileHash .\fimawcode-desktop-win-x64-<version>.exe -Algorithm SHA512
 ```
 
 The printed hash must equal the matching line in `SHA512SUMS`. The same hash is shown on
-<https://www.fimaw.com/download>.
+<https://fimaw.com/download>.
 
 ## Why Windows shows a warning
 
